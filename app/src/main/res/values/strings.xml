@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWXPayDemo</string>
+    <string name="app_tip">支付结果</string>
+    <string name="pay_result_callback_msg">支付回调信息</string>
+</resources>
